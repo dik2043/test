@@ -4,6 +4,7 @@ import './App.css';
 
 console.log(123);
 console.log(123);
+console.log('fa');
 
 function App() {
   return (
